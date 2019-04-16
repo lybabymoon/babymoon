@@ -15,25 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="No1.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No2.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No3.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No4.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No5.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No6.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No7.c">
+    <ClCompile Include="number.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

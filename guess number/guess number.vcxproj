@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{38788E9C-D809-4BF1-A9EB-EC878A88F751}</ProjectGuid>
-    <RootNamespace>theseventhhomework</RootNamespace>
+    <ProjectGuid>{56D5C247-7792-4707-BBB9-EAD58F1A2AC8}</ProjectGuid>
+    <RootNamespace>guessnumber</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,13 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="No1.c" />
-    <ClCompile Include="No2.c" />
-    <ClCompile Include="No3.c" />
-    <ClCompile Include="No4.c" />
-    <ClCompile Include="No5.c" />
-    <ClCompile Include="No6.c" />
-    <ClCompile Include="No7.c" />
+    <ClCompile Include="number.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
